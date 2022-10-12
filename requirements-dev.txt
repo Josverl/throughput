@@ -1,0 +1,5 @@
+# requirements for type checking
+#
+# pip install -U -r .\requirements-stubs.txt --target typings --no-user --no-compile
+
+micropython-esp32-stubs
